@@ -1,0 +1,6 @@
+server:
+  port: 8080
+ldap:
+  host: ubuntu.vbox
+  port: 389
+  dn: ou=users,o=local,c=id,dc=ubuntu,dc=vbox
